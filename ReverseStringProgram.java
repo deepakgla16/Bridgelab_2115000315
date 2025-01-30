@@ -10,7 +10,12 @@ public class ReverseStringProgram {
 	}
 
 	private static String reverse(String str) {
-		return new StringBuilder(str).reverse().toString();
+		String result = "";
+		for (int i = str.length() - 1; i >= 0; i--) {
+			result += str.charAt(i);
+		}
+		return result;
+
 	}
-	
+
 }

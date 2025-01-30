@@ -10,14 +10,15 @@ public class RemoveDuplicatesFromStringProgram {
     }
 
     private static String removeDuplicates(String str) {
-        StringBuilder sb = new StringBuilder();
+        String result = "";
         for (int i = 0; i < str.length(); i++) {
-            char ch = str.charAt(i);
-            if (sb.indexOf(String.valueOf(ch)) == -1) {
-                sb.append(ch);
+            char c = str.charAt(i);
+            if (result.indexOf(c) == -1) {
+                result += c;
             }
         }
-        return sb.toString();
+        return result;
+
     }
-    
+
 }
