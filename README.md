@@ -13,3 +13,7 @@ Edit in assignment 6 in four questions of string, i used StringBuilder in code a
 I have done Assignment 7 and it is based on oops concept.
 
 Assignment 8 has completed now. It is based on constructor and access modifier submit by 02-02-2025.
+
+Assignment 9 has done. It is based on this, static, final keyword and instanceof operator. It is done by 04/02/2025
+
+It is stored in branch "feature03-02-2025"
