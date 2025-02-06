@@ -17,3 +17,7 @@ Assignment 8 has completed now. It is based on constructor and access modifier s
 Assignment 9 has done. It is based on this, static, final keyword and instanceof operator. It is done by 04/02/2025
 
 It is stored in branch "feature03-02-2025"
+
+Assignment 10 has done. It is based on class, object, and sequence diagram. It is done by 06/02/2025
+
+It is stored in branch "feature04-02-2025"
