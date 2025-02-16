@@ -1,0 +1,3 @@
+Hello, World!
+This file contains UTF-8 text.
+InputStreamReader converts bytes to characters.
