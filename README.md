@@ -41,3 +41,6 @@ It is stored in branch "feature14-02-2025".
 
 Assignment 17 has done. It is based on Algorithm's Runtime Analysis & Big-O Notation. It is done by 17/02/2025
 It is stored in branch "feature15-02-2025".
+
+Assignment 18 has done. It is based on Java Generics. It is done by 18/02/2025
+It is stored in branch "feature17-02-2025".
