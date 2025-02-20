@@ -44,3 +44,6 @@ It is stored in branch "feature15-02-2025".
 
 Assignment 18 has done. It is based on Java Generics. It is done by 18/02/2025
 It is stored in branch "feature17-02-2025".
+
+Assignment 19 has done. It is based on Collections. It is done by 20/02/2025
+It is stored in branch "feature18-02-2025".
