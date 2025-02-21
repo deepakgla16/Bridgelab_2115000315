@@ -47,3 +47,6 @@ It is stored in branch "feature17-02-2025".
 
 Assignment 19 has done. It is based on Collections. It is done by 20/02/2025
 It is stored in branch "feature18-02-2025".
+
+Assignment 20 has done. It is based on Java Streams. It is done by 21/02/2025
+It is stored in branch "feature19-02-2025".
