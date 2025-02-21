@@ -1,0 +1,4 @@
+Name: cd "e:\Capgemini Training\Assignment2\" ; if ($?) { javac EmployeeSerialization.java } ; if ($?) { java EmployeeSerialization }
+Age: cd "e:\Capgemini Training\Assignment2\" ; if ($?) { javac ImageByteArrayStream.java } ; if ($?) { java ImageByteArrayStream }
+Favorite Programming Language: cd "e:\Capgemini Training\Assignment2\" ; if ($?) { javac UpperToLowerConverter.java } ; if ($?) { java UpperToLowerConverter }
+----------------------------
