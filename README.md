@@ -54,5 +54,8 @@ It is stored in branch "feature19-02-2025".
 Assignment 21 has done. It is based on Exceptions in Java. It is done by 21/02/2025
 It is stored in branch "feature20-02-2025".
 
-Assignment 2 2has done. It is based on Regex and Junit in java. It is done by 22/02/2025
+Assignment 22 has done. It is based on Regex and Junit in java. It is done by 22/02/2025
 It is stored in branch "feature21-02-2025".
+
+Assignment 23 has done. It is based on Annotations and Reflection in java. It is done by 24/02/2025
+It is stored in branch "feature22-02-2025".
