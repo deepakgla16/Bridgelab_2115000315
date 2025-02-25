@@ -59,3 +59,6 @@ It is stored in branch "feature21-02-2025".
 
 Assignment 23 has done. It is based on Annotations and Reflection in java. It is done by 24/02/2025
 It is stored in branch "feature22-02-2025".
+
+Assignment 24 has done. It is based on CSV Data Handling in java. It is done by 25/02/2025
+It is stored in branch "feature24-02-2025".
